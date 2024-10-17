@@ -1,0 +1,6 @@
+[submodule "Medical"]
+	path = Medical
+	url = https://github.com/Karim248119/Medical.git
+[submodule "Med-DB"]
+	path = Med-DB
+	url = https://github.com/Karim248119/Med-DB.git
