@@ -1,5 +1,5 @@
 To run the project:
-    1- Download the hospital folder
+    1- Download Medical folder
     2- In the root of the project, create a file named .env.
     3- Add the following lines inside the .env file:
                     NEXT_PUBLIC_BASE_URL=https://med-db-karims-projects-19a6790f.vercel.app/api
